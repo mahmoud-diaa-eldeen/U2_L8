@@ -1,4 +1,5 @@
 #include<string.h>
+#include<stdio.h>
 struct st
 {
     char name[100] ;
